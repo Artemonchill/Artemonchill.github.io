@@ -23,5 +23,5 @@
 }
 </style>
 <a href="https://github.com/Artemonchill" class="button_1670292100525" target="_blank">
-  Кнопка
+  Моё творение
 </a>
